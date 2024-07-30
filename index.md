@@ -24,18 +24,18 @@
 - [2018-September - NVIDIA GeForce Experience](Archived Bulletins/2018/2018-September - NVIDIA GeForce Experience.md)
 
 ### 2019
-- [2019-April - NVIDIA Jetson TX1 and TX2 L4T](Archived%20Bulletins/2019/2019-April%20-%20NVIDIA%20Jetson%20TX1%20and%20TX2%20L4T.md)
-- [2019-August - NVIDIA GPU Display Driver](Archived%20Bulletins/2019/2019-August%20-%20NVIDIA%20GPU%20Display%20Driver.md)
-- [2019-August - NVIDIA SHIELD TV](Archived%20Bulletins/2019/2019-August%20-%20NVIDIA%20SHIELD%20TV.md)
-- [2019-December - NVIDIA GeForce Experience](Archived%20Bulletins/2019/2019-December%20-%20NVIDIA%20GeForce%20Experience.md)
-- [2019-February - NVIDIA GPU Display Driver](Archived%20Bulletins/2019/2019-February%20-%20NVIDIA%20GPU%20Display%20Driver.md)
-- [2019-July - NVIDIA Jetson TX1 and Jetson Nano L4T](Archived%20Bulletins/2019/2019-July%20-%20NVIDIA%20Jetson%20TX1%20and%20Jetson%20Nano%20L4T.md)
-- [2019-May - NVIDIA GPU Display Driver](Archived%20Bulletins/2019/2019-May%20-%20NVIDIA%20GPU%20Display%20Driver.md)
-- [2019-May - NVIDIA GeForce Experience](Archived%20Bulletins/2019/2019-May%20-%20NVIDIA%20GeForce%20Experience.md)
-- [2019-November - NVIDIA GPU Display Driver](Archived%20Bulletins/2019/2019-November%20-%20NVIDIA%20GPU%20Display%20Driver.md)
-- [2019-November - NVIDIA GeForce Experience](Archived%20Bulletins/2019/2019-November%20-%20NVIDIA%20GeForce%20Experience.md)
-- [2019-November - NVIDIA NVFlash, GPUModeSwitch Tool](Archived%20Bulletins/2019/2019-November%20-%20NVIDIA%20NVFlash,%20GPUModeSwitch%20Tool.md)
-- [2019-October - NVIDIA SHIELD TV](Archived%20Bulletins/2019/2019-October%20-%20NVIDIA%20SHIELD%20TV.md)
+- [2019-April - NVIDIA Jetson TX1 and TX2 L4T](Archived Bulletins/2019/2019-April - NVIDIA Jetson TX1 and TX2 L4T.md)
+- [2019-August - NVIDIA GPU Display Driver](Archived Bulletins/2019/2019-August - NVIDIA GPU Display Driver.md)
+- [2019-August - NVIDIA SHIELD TV](Archived Bulletins/2019/2019-August - NVIDIA SHIELD TV.md)
+- [2019-December - NVIDIA GeForce Experience](Archived Bulletins/2019/2019-December - NVIDIA GeForce Experience.md)
+- [2019-February - NVIDIA GPU Display Driver](Archived Bulletins/2019/2019-February - NVIDIA GPU Display Driver.md)
+- [2019-July - NVIDIA Jetson TX1 and Jetson Nano L4T](Archived Bulletins/2019/2019-July - NVIDIA Jetson TX1 and Jetson Nano L4T.md)
+- [2019-May - NVIDIA GPU Display Driver](Archived Bulletins/2019/2019-May - NVIDIA GPU Display Driver.md)
+- [2019-May - NVIDIA GeForce Experience](Archived Bulletins/2019/2019-May - NVIDIA GeForce Experience.md)
+- [2019-November - NVIDIA GPU Display Driver](Archived Bulletins/2019/2019-November - NVIDIA GPU Display Driver.md)
+- [2019-November - NVIDIA GeForce Experience](Archived Bulletins/2019/2019-November - NVIDIA GeForce Experience.md)
+- [2019-November - NVIDIA NVFlash, GPUModeSwitch Tool](Archived Bulletins/2019/2019-November - NVIDIA NVFlash, GPUModeSwitch Tool.md)
+- [2019-October - NVIDIA SHIELD TV](Archived Bulletins/2019/2019-October - NVIDIA SHIELD TV.md)
 
 ### 2020
 - [2020-February - NVIDIA GPU Display Driver](Archived%20Bulletins/2020/2020-February%20-%20NVIDIA%20GPU%20Display%20Driver.md)
@@ -119,7 +119,7 @@
 - [2024-May - NVIDIA ChatRTX](Archived%20Bulletins/2024/2024-May%20-%20NVIDIA%20ChatRTX.md)
 - [2024-May - Triton Inference Server](Archived%20Bulletins/2024/2024-May%20-%20Triton%20Inference%20Server.md)
 
-## Other Files
+## Home Content
 - [Code Of Conduct](Code_Of_Conduct.md)
 - [PGP Key](PGP_key.md)
 - [README](README.md)
