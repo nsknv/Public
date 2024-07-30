@@ -1,6 +1,3 @@
-
-
-
 # Welcome to My Repository
 
 ## 2024
