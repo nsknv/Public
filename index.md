@@ -21,7 +21,7 @@
 ## Archived Bulletins
 ### 2018
 - [2018-November - NVIDIA GeForce Experience](Archived Bulletins/2018/2018-November - NVIDIA GeForce Experience.md) 
-- [2018-September - NVIDIA GeForce Experience](Archived%20Bulletins/2018/2018-September%20-%20NVIDIA%20GeForce%20Experience.md)
+- [2018-September - NVIDIA GeForce Experience](Archived Bulletins/2018/2018-September - NVIDIA GeForce Experience.md) 
 
 ### 2019
 - [2019-April - NVIDIA Jetson TX1 and TX2 L4T](Archived%20Bulletins/2019/2019-April%20-%20NVIDIA%20Jetson%20TX1%20and%20TX2%20L4T.md)
