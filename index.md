@@ -20,7 +20,7 @@
 
 ## Archived Bulletins
 ### 2018
-- [2018-November - NVIDIA GeForce Experience](Archived Bulletins/2018/2018-November - NVIDIA GeForce Experience.md)
+- [2018-November - NVIDIA GeForce Experience]([Archived Bulletins/2018/2018-November - NVIDIA GeForce Experience.md](https://github.com/nsknv/Public/blob/683d23b514700c125535b7c41ec2570870971f37/Archived%20Bulletins/2018/2018-November%20-%20NVIDIA%20GeForce%20Experience.md)
 - [2018-September - NVIDIA GeForce Experience](Archived Bulletins/2018/2018-September - NVIDIA GeForce Experience.md)
 
 ### 2019
