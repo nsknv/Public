@@ -10,4 +10,4 @@ You may subscribe to receive email notifications [here](https://www.nvidia.com/e
 NVIDIA takes security concerns seriously and works to quickly evaluate and address them. Once a security concern is reported, NVIDIA commits the appropriate resources to analyze, validate and provide corrective actions to address the issue
 
 ## Contact
-For more information about our security practices or to report a security issue, please refer to the Security.md document.
+For more information about our security practices or to report a security issue, please refer to the [Security.md](Security.md) document.
