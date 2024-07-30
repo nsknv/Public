@@ -1,8 +1,7 @@
 # Welcome to My Repository
 
-## 2024
+## Latest Security Bulletin
 - [2024-July - Mellanox OS](2024/2024-July - Mellanox OS.md)
-- [text.txt](2024/text.txt)
 
 ## Acknowledgements
 - [2013](Acknowledgements/2013.md)
