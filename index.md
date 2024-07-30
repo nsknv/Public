@@ -61,7 +61,7 @@
 - [2021-July - NVIDIA DGX-1 and NVIDIA DGX-2 Systems](Archived Bulletins/2021/2021-July - NVIDIA DGX-1 and NVIDIA DGX-2 Systems.md)
 - [2021-July - NVIDIA GPU Display Drivers](Archived Bulletins/2021/2021-July - NVIDIA GPU Display Drivers.md)
 - [2021-June - NVIDIA GeForce Experience](Archived Bulletins/2021/2021-June - NVIDIA GeForce Experience.md)
-- [2021-June - NVIDIA Jetson AGX Xavier Series, Jetson Xavier NX, Jetson TX1, Jetson TX2 Series (including Jetson TX2 NX), and Jetson Nano (including Jetson Nano 2GB)](Archived Bulletins/2021/2021-June - NVIDIA Jetson AGX Xavier Series, Jetson Xavier NX, Jetson TX1, Jetson TX2 Series (including Jetson TX2 NX), and Jetson Nano (including Jetson Nano 2GB).md)
+- [2021-June - NVIDIA Jetson AGX Xavier Series, Jetson Xavier NX, Jetson TX1, Jetson TX2 Series (including Jetson TX2 NX), and Jetson Nano (including Jetson Nano 2GB)](Archived Bulletins/2021/2021-June - NVIDIA Jetson AGX Xavier Series, Jetson Xavier NX, Jetson TX1, Jetson TX2 Series and Jetson Nano.md)
 - [2021-October - NVIDIA GPU Display Driver](Archived Bulletins/2021/2021-October - NVIDIA GPU Display Driver.md)
 
 ### 2022
