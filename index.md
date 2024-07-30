@@ -1,3 +1,9 @@
+---
+layout: default
+title: Home
+---
+
+
 # Welcome to My Repository
 
 ## 2024
