@@ -43,7 +43,7 @@
 - [2020-July - NVIDIA Jetson AGX Xavier, TX1, TX2, and Nano L4T](Archived Bulletins/2020/2020-July - NVIDIA Jetson AGX Xavier, TX1, TX2, and Nano L4T.md)
 - [2020-June - NVIDIA GPU Display Driver](Archived Bulletins/2020/2020-June - NVIDIA GPU Display Driver.md)
 - [2020-November - NVIDIA GeForce NOW](Archived Bulletins/2020/2020-November - NVIDIA GeForce NOW.md)
-- [2020-October - AMI Baseboard Management Controller (BMC) Firmware Vulnerabilities in NVIDIA DGX-1, DGX-2, and DGX A100 Servers](Archived Bulletins/2020/2020-October - AMI Baseboard Management Controller (BMC) Firmware Vulnerabilities in NVIDIA DGX-1, DGX-2, and DGX A100 Servers.md)
+- [2020-October - AMI Baseboard Management Controller Firmware Vulnerabilities in NVIDIA DGX-1, DGX-2, and DGX A100 Servers](Archived Bulletins/2020/2020-October - AMI Baseboard Management Controller (BMC) Firmware Vulnerabilities in NVIDIA DGX-1, DGX-2, and DGX A100 Servers.md)
 - [2020-October - NVIDIA CUDA Toolkit](Archived Bulletins/2020/2020-October - NVIDIA CUDA Toolkit.md)
 - [2020-October - NVIDIA GeForce Experience](Archived Bulletins/2020/2020-October - NVIDIA GeForce Experience.md)
 - [2020-September - NVIDIA GPU Display Driver](Archived Bulletins/2020/2020-September - NVIDIA GPU Display Driver.md)
