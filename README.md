@@ -11,6 +11,3 @@ NVIDIA takes security concerns seriously and works to quickly evaluate and addre
 
 ## Contact
 For more information about our security practices or to report a security issue, please refer to the [Security.md](Security.md) document.
-
-
-[2024](2024/2024-July - Mellanox OS.md)
