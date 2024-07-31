@@ -7,7 +7,7 @@
 - [Security](Security.md)
 
 ## Latest Security Bulletin
-- [2024-July - Mellanox OS](2024/2024-July - Mellanox OS.md)
+- [2024-07-10 - Mellanox OS](2024/2024-07-10 - Mellanox OS.md)
 
 ## Archived Bulletins
 ### 2024
